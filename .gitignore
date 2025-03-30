@@ -1,0 +1,5 @@
+/logs
+/.idea
+/airflow_venv
+/conn.yaml
+/currency.ipynb
