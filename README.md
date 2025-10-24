@@ -31,4 +31,7 @@ They need an automated, reliable, and scalable solution to fetch, store, and pro
 * Pandas Library to parse data extracted from API
 * Postgres database for storing transformed data
 * Python: Programing language, used for building the data pipeline
-  
+
+## Data Model
+![Data Modeling ](currency_data_model.jpg)
+
