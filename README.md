@@ -1,4 +1,5 @@
-# Business Case
+# CURRENCY EXCHANGE ETL
+## Business Case
 Coindulux is a small but growing startup that provides currency exchange services at various locations, including local government offices and airports across Nigeria. They aim to offer convenient and competitive exchange rates to both local and international customers.
 
 ## Problem Statement
